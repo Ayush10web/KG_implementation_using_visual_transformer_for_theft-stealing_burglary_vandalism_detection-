@@ -1,0 +1,1 @@
+# KG_implementation_using_visual_transformer_for_theft-stealing_burglary_vandalism_detection-
